@@ -614,7 +614,7 @@ section {
 .featured-services .icon-box::before {
   content: "";
   position: absolute;
-  background: #cbe0fb;
+  background: #339933;
   right: 0;
   left: 0;
   bottom: 0;
@@ -623,7 +623,7 @@ section {
   z-index: -1;
 }
 .featured-services .icon-box:hover::before {
-  background: #106eea;
+  background: #339933;
   top: 0;
   border-radius: 0px;
 }
@@ -633,7 +633,7 @@ section {
 .featured-services .icon i {
   font-size: 48px;
   line-height: 1;
-  color: #106eea;
+  color: #339933;
   transition: all 0.3s ease-in-out;
 }
 .featured-services .title {
