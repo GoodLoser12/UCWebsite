@@ -690,6 +690,7 @@ section {
 }
 .about .content ul p {
   font-size: 15px;
+  text-align: justify;
 }
 .about .content p:last-child {
   margin-bottom: 0;
