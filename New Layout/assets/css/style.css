@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #106eea;
+  background: #339933;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -241,7 +241,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #106eea;
+  color: #339933;
 }
 .navbar .dropdown ul {
   display: block;
@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #106eea;
+  color: #339933;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -359,7 +359,7 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #106eea;
+  color: #339933;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -385,7 +385,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #106eea;
+  color: #339933;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -422,7 +422,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #hero h1 span {
-  color: #106eea;
+  color: #339933;
 }
 #hero h2 {
   color: #555555;
@@ -441,10 +441,10 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #106eea;
+  background: #339933;
 }
 #hero .btn-get-started:hover {
-  background: #247cf0;
+  background: #339933;
 }
 #hero .btn-watch-video {
   font-size: 16px;
@@ -456,14 +456,14 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
 }
 #hero .btn-watch-video i {
-  color: #106eea;
+  color: #339933;
   font-size: 32px;
   transition: 0.3s;
   line-height: 0;
   margin-right: 8px;
 }
 #hero .btn-watch-video:hover {
-  color: #106eea;
+  color: #339933;
 }
 #hero .btn-watch-video:hover i {
   color: #3b8af2;
