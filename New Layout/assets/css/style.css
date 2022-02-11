@@ -72,6 +72,16 @@ h1, h2, h3, h4, h5, h6 {
     transform: rotate(360deg);
   }
 }
+.p2{
+  text-align: center;
+  position: relative;
+  bottom: 20px;
+}
+.head2{
+  text-align: center;
+  position: relative;
+  top: 20px;
+}
 /*--------------------------------------------------------------
 # Left Div
 --------------------------------------------------------------*/
@@ -542,6 +552,18 @@ section {
   text-transform: uppercase;
   border-radius: 50px;
 }
+.title2 h3 {
+  position: relative;
+  bottom: 40px;
+  overflow: hidden;
+  margin: 15px 0 0 0;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+}
+.title2 h3 span {
+  color: #339933;
+}
 .section-title h3 {
   margin: 15px 0 0 0;
   font-size: 32px;
@@ -708,35 +730,7 @@ section {
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
-.skills .progress {
-  height: 60px;
-  display: block;
-  background: none;
-  border-radius: 0;
-}
-.skills .progress .skill {
-  padding: 0;
-  margin: 0 0 6px 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #222222;
-}
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
-}
-.skills .progress-bar-wrap {
-  background: #e2eefd;
-  height: 10px;
-}
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #106eea;
-}
+
 
 /*--------------------------------------------------------------
 # Counts
