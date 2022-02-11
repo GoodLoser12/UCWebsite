@@ -72,15 +72,22 @@ h1, h2, h3, h4, h5, h6 {
     transform: rotate(360deg);
   }
 }
+
+.p1{
+  text-align: justify;
+  position: relative;
+  top: 30px;
+  left: 20px;
+}
 .p2{
   text-align: center;
   position: relative;
-  bottom: 20px;
+  top: 20px;
 }
 .head2{
   text-align: center;
   position: relative;
-  top: 20px;
+  top: 30px;
 }
 /*--------------------------------------------------------------
 # Left Div
