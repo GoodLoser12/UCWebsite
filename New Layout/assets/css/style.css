@@ -937,9 +937,9 @@ section {
 --------------------------------------------------------------*/
 .portfolio #portfolio-flters {
   padding: 0;
-  margin: 0 auto 15px auto;
+  margin: 0 auto 10px auto;
   list-style: none;
-  text-align: center;
+  text-align: left;
   border-radius: 50px;
   padding: 2px 15px;
 }
