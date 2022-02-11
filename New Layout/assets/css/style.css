@@ -82,12 +82,21 @@ h1, h2, h3, h4, h5, h6 {
   text-align: justify;
 }
 /*--------------------------------------------------------------
+#Center Div
+--------------------------------------------------------------*/
+.abs{
+ column-count: 3;
+ text-align: center;
+ position: relative;
+
+}
+/*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
 .back-to-top {
   position: fixed;
   visibility: hidden;
-  opacity: 0;
+  opacity: 40
   right: 15px;
   bottom: 15px;
   z-index: 996;
