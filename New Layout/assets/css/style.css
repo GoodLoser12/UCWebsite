@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   top: 70px;
   padding: 5px;
-  width: 250px;
+  width: 200px;
   
 
 }
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
 .column {
   float: left;
   width: 25%;
-  padding: 10px;
+  padding: 20px;
   height: 100px; 
 }
 .row1:after {
@@ -137,7 +137,12 @@ h1, h2, h3, h4, h5, h6 {
  column-count: 3;
  text-align: center;
  position: relative;
+}
 
+.abs1{
+ column-count: 3;
+ text-align: center;
+ position: relative;
 }
 /*--------------------------------------------------------------
 # Back to top button
@@ -570,6 +575,8 @@ section {
   padding: 60px 0;
   overflow: hidden;
 }
+
+
 .section-bg1{
    background-color: #f6f9fe;
    padding: 60px 0px 250px 0px;
