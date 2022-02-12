@@ -84,11 +84,43 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   top: 20px;
 }
+.p3{
+  text-align: justify;
+  position: relative;
+  top: 70px;
+  padding: 5px;
+  width: 250px;
+  
+
+}
 .head2{
   text-align: center;
   position: relative;
   top: 30px;
 }
+.head3{
+  text-align: left;
+  position: relative;
+  top: 70px;
+}
+.ul1{
+  text-align: justify;
+  position: relative;
+  top: 70px;
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 100px; 
+}
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
 /*--------------------------------------------------------------
 # Left Div
 --------------------------------------------------------------*/
@@ -537,6 +569,11 @@ h1, h2, h3, h4, h5, h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
+}
+.section-bg1{
+   background-color: #f6f9fe;
+   padding: 60px 0px 250px 0px;
+   overflow: hidden;
 }
 
 .section-bg {
