@@ -89,8 +89,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   top: 70px;
   padding: 5px;
-  width: 200px;
-  
+  width: 200px; 
 
 }
 .head2{
@@ -119,7 +118,10 @@ h1, h2, h3, h4, h5, h6 {
   display: table;
   clear: both;
 }
-
+.admiss{
+  text-align: center;
+  padding-bottom: 30px;
+}
 
 /*--------------------------------------------------------------
 # Left Div
