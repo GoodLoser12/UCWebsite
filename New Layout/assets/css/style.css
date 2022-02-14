@@ -122,7 +122,20 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   padding-bottom: 30px;
 }
-
+.hh {
+  padding-bottom: 30px;
+  text-align: center;
+  color: #18583C;
+}
+.hh1 {
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: center;
+  color: #18583C;
+}
+hr {
+  border: 1px solid #18583C;
+}
 /*--------------------------------------------------------------
 # Left Div
 --------------------------------------------------------------*/
