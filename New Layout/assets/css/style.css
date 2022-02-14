@@ -73,18 +73,18 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.p1{
+.p1 {
   text-align: justify;
   position: relative;
   top: 30px;
   left: 20px;
 }
-.p2{
+.p2 {
   text-align: center;
   position: relative;
   top: 20px;
 }
-.p3{
+.p3 {
   text-align: justify;
   position: relative;
   top: 70px;
@@ -92,17 +92,17 @@ h1, h2, h3, h4, h5, h6 {
   width: 200px; 
 
 }
-.head2{
+.head2 {
   text-align: center;
   position: relative;
   top: 30px;
 }
-.head3{
+.head3{ 
   text-align: left;
   position: relative;
   top: 70px;
 }
-.ul1{
+.ul1 {
   text-align: justify;
   position: relative;
   top: 70px;
@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
   display: table;
   clear: both;
 }
-.admiss{
+.admiss {
   text-align: center;
   padding-bottom: 30px;
 }
@@ -135,13 +135,13 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 #Center Div
 --------------------------------------------------------------*/
-.abs{
+.abs {
  column-count: 3;
  text-align: center;
  position: relative;
 }
 
-.abs1{
+.abs1 {
  column-count: 3;
  text-align: center;
  position: relative;
@@ -583,6 +583,12 @@ section {
    background-color: #f6f9fe;
    padding: 60px 0px 250px 0px;
    overflow: hidden;
+}
+
+.section-bg2{
+   background-color: #f6f9fe;
+   padding: 1000px 0
+   
 }
 
 .section-bg {
